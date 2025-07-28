@@ -74,6 +74,9 @@ Visual
 
 <img width="1888" height="720" alt="image" src="https://github.com/user-attachments/assets/76ff8d03-f77a-43ff-8729-3b4313b4c27b" />
 
+Next Steps
+----------
+1.  Find out correlation between different variables of drivers records who are accepting coffeshop coupons.
 
 **Investigation 5**
 
@@ -88,6 +91,9 @@ Visual
 ----------------
 <img width="1760" height="1150" alt="image" src="https://github.com/user-attachments/assets/49307d34-97a8-4d03-90da-c1f8fd4d6aae" />
 
+Next Steps
+----------
+1.  Find out correlation between different variables of drivers records on why young ages are accepting coupons.
 
 **Investigation 6**
 
@@ -102,3 +108,6 @@ Visual
 
 <img width="1708" height="1190" alt="image" src="https://github.com/user-attachments/assets/43623662-53c2-4c51-8906-56f03e7bbbeb" />
 
+Next Steps
+----------
+1.  Come up with a model for machine learning yo automatically identify this group.
