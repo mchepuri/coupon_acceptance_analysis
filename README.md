@@ -1,4 +1,4 @@
-# coupon_acceptance_analysis
+<img width="1760" height="1150" alt="image" src="https://github.com/user-attachments/assets/df58bd70-9c8d-4ec6-b709-708ff9846c6f" /># coupon_acceptance_analysis
 Analyze various data points and figure out weather a customer accepts the coupon.
 
 Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?
@@ -65,4 +65,44 @@ Visual
 ----------------
 <img width="1506" height="1032" alt="image" src="https://github.com/user-attachments/assets/2f110352-a147-4889-9c29-fc8c2c242507" />
 
+
+**Investigation 4**
+Show the distribution of acceptance across coupons on a pie chart
+
+Key Observation(s)
+-----------------
+Coffeshop appears to have highest acceptance folllowed up economy restaurants
+
+Visual 
+----------------
+
+<img width="1888" height="720" alt="image" src="https://github.com/user-attachments/assets/76ff8d03-f77a-43ff-8729-3b4313b4c27b" />
+
+
+**Investigation 5**
+
+Show the distribution of acceptance across coupons on a line chart
+
+Key Observation(s)
+-----------------
+Young ages appears to have more acceptance then mid ages and old ages.
+
+
+Visual 
+----------------
+<img width="1760" height="1150" alt="image" src="https://github.com/user-attachments/assets/49307d34-97a8-4d03-90da-c1f8fd4d6aae" />
+
+
+**Investigation 6**
+
+Compare acceptance of restaurant coupons when:Passenger = Friends Time = Evening Temperature > 70°F 
+
+Key Observation(s)
+-----------------
+It seems the driver who go out evening after 6 pm with friends appears to be accpepting more coupons.
+
+Visual 
+----------------
+
+<img width="1708" height="1190" alt="image" src="https://github.com/user-attachments/assets/43623662-53c2-4c51-8906-56f03e7bbbeb" />
 
